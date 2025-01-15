@@ -7,21 +7,22 @@
     },
     {
         "id": 2,
-        "titulo": "Um componente no espaço",
-        "capa": "https://cdn3.gnarususercontent.com.br/2802-react-praticando/img1.png",
-        "link": "https://www.youtube.com/embed/jK0uiQ1ZQQQ"
+        "titulo": "P.J. Ladd's Wonderfull, Horrible, Life",
+        "capa": "https://i.ytimg.com/vi/oFV34M02KRE/hqdefault.jpg",
+        "link": "https://www.youtube.com/embed/oFV34M02KRE?si=sk8tAY7wDPdyAc4A"
     },
     {
         "id": 3,
-        "titulo": "O poderoso JavaScript",
-        "capa": "https://cdn3.gnarususercontent.com.br/2802-react-praticando/img4.png",
-        "link": "https://www.youtube.com/embed/N1BSG02z-Mw"
+        "titulo": "Toy Machine-Jump Off a Building",
+        "capa": "https://i.ytimg.com/vi/735_lQrtgSQ/hqdefault.jpg",
+        "link": "https://www.youtube.com/embed/735_lQrtgSQ?si=t9NjTdxGlrUcWwiO"
+"
     },
     {
         "id": 4,
-        "titulo": "Dart, o Caçador de Andróides",
-        "capa": "https://cdn3.gnarususercontent.com.br/2802-react-praticando/img3.png",
-        "link": "https://www.youtube.com/embed/LLmBWjF6F8M"
+        "titulo": "Thrasher-King of the Road (2004)",
+        "capa": "https://i.ytimg.com/vi/khxWQxHJtAo/hqdefault.jpg",
+        "link": "https://www.youtube.com/embed/khxWQxHJtAo?si=jIqY-a7ynN8ZbYWR"
     }
 ]
 }
