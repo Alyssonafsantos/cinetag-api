@@ -1,9 +1,9 @@
 { "videos": [
     {
         "id": 1,
-        "titulo": "O labirinto do Logcat",
-        "capa": "https://cdn3.gnarususercontent.com.br/2802-react-praticando/img2.png",
-        "link": "https://www.youtube.com/embed/ypvGqZGJBls"
+        "titulo": "Fallen - Ride The Sky ",
+        "capa": "https://i.ytimg.com/vi/FmrvQPf7hM8/hq720.jpg",
+        "link": "https://www.youtube.com/embed/FmrvQPf7hM8?si=QvPzB0SVPMZC-sXG"
     },
     {
         "id": 2,
